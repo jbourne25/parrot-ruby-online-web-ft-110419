@@ -8,5 +8,5 @@ end
 
 def parrot
   phrase = "Pretty bird!"
-  puts phrase
+  puts parrot
 end 
