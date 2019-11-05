@@ -6,11 +6,11 @@ def parrot(string = "Squawk!")
   return string 
 end 
 
-def parrot
-  phrase = "Squawk!"
-  puts "Squawk!"
-  "Squawk!"
- end
+#def parrot
+ # phrase = "Squawk!"
+  #puts "Squawk!"
+  #"Squawk!"
+ #end
  
 
 
