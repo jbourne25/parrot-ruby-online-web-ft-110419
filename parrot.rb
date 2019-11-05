@@ -8,6 +8,6 @@ end
 
 def parrot(phrase)
   puts #{phrase}
-parrot("Pretty bird!")
+phrase("Pretty bird!")
 end
   
