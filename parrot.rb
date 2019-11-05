@@ -2,12 +2,13 @@
 # returns the phrase
 
 def parrot
+  phrase = "Squawk!"
   puts "Squawk!"
 end 
 
-def parrot
-  puts "Squawk!"
-  "Squawk!"
-end 
+#def parrot
+ # puts "Squawk!"
+  #"Squawk!"
+ 
  
  
