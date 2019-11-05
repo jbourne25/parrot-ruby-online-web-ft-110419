@@ -10,8 +10,4 @@ def parrot
   "Squawk!"
 end 
  
-def parrot(phrase)
-   puts #{phrase}
- end 
-parrot("Pretty bird!")
  
